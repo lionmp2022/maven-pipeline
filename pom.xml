@@ -4,7 +4,7 @@
   <groupId>com.miguel.proyecto</groupId>
   <artifactId>mi-primer-aplicacion-web</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT-5</version>
+  <version>1.0-SNAPSHOT-6</version>
   <name>mi-primer-aplicacion-web Maven Webapp</name>
   <url>http://repo.maven.apache.org/maven2</url>
   <properties>
