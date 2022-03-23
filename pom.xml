@@ -96,18 +96,18 @@
 
     </plugins>
   </build>
-
-  <distributionManagement>
+         
+ <distributionManagement>
     <repository>
         <id>central</id>
-        <name>Linux-releases</name>
-        <url>http://localhost:8082/artifactory/repositorio-test</url>        
+        <name>localhost.localdomain-releases</name>
+        <url>http://localhost:8081/artifactory/repositorio-test</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>Linux-snapshots</name>
-        <url>http://localhost:8082/artifactory/repositorio-test</url>
+        <name>localhost.localdomain-snapshots</name>
+        <url>http://localhost:8081/artifactory/repositorio-test</url>
     </snapshotRepository>
-  </distributionManagement>
+</distributionManagement>
 
 </project>
