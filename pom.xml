@@ -100,12 +100,12 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>DESKTOP-FN7EEC3-releases</name>
+        <name>Linux-releases</name>
         <url>http://localhost:8082/artifactory/repositorio-test</url>        
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>DESKTOP-FN7EEC3-snapshots</name>
+        <name>Linux-snapshots</name>
         <url>http://localhost:8082/artifactory/repositorio-test</url>
     </snapshotRepository>
   </distributionManagement>
