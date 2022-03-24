@@ -10,7 +10,13 @@
   <properties>
     <jdk-version>1.8</jdk-version>
   </properties>
-
+         
+  <scm>
+    <connection>scm:git:https://github.com/lionmp2022/maven-pipeline.git</connection>
+    <developerConnection>scm:https://github.com/lionmp2022/maven-pipeline.git</developerConnection>
+    <url>https://github.com/jadler-mocking/jadler</url>
+  </scm> 
+         
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -109,11 +115,5 @@
         <url>http://localhost:8081/artifactory/repositorio-test</url>
     </snapshotRepository>
 </distributionManagement>
-
-<scm>
-    <connection>scm:https://github.com/lionmp2022/maven-pipeline.git</connection> #git project address puede usar SSH o HTTPS
-    <developerConnection>scm:https://github.com/lionmp2022/maven-pipeline.git</developerConnection>
-    <url>https://github.com/lionmp2022/maven-pipeline</url>
-</scm>
 
 </project>
