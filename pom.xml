@@ -111,8 +111,8 @@
 </distributionManagement>
 
 <scm>
-    <connection>scm:git:https://github.com/lionmp2022/maven-pipeline.git</connection> #git project address puede usar SSH o HTTPS
-    <developerConnection>scm:git:https://github.com/lionmp2022/maven-pipeline.git</developerConnection>
+    <connection>scm:https://github.com/lionmp2022/maven-pipeline.git</connection> #git project address puede usar SSH o HTTPS
+    <developerConnection>scm:https://github.com/lionmp2022/maven-pipeline.git</developerConnection>
     <url>https://github.com/lionmp2022/maven-pipeline</url>
 </scm>
 
