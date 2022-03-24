@@ -69,12 +69,6 @@
       <version>1.0.1</version>
       <scope>compile</scope>
     </dependency>
-    <dependency>
-      <groupId>org.codehaus.mojo</groupId>
-      <artifactId>build-helper-maven-plugin</artifactId>
-      <version>3.2.0</version>
-      <type>maven-plugin</type>
-    </dependency>
   </dependencies>
   <build>
     <finalName>mi-primer-aplicacion-web</finalName>
